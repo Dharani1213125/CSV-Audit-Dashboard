@@ -1,0 +1,111 @@
+--- MISSING_VALUES ---
+Column,Missing Count
+Year,0
+Industry_aggregation_NZSIOC,0
+Industry_code_NZSIOC,0
+Industry_name_NZSIOC,0
+Units,0
+Variable_code,0
+Variable_name,0
+Variable_category,0
+Value,0
+Industry_code_ANZSIC06,0
+
+
+--- DUPLICATE_ROWS ---
+No data found
+
+
+--- CLASS_DISTRIBUTION ---
+Label,Count
+Total income,1529
+"Interest, dividends and donations",1529
+Non-operating income,1529
+Total expenditure,1529
+Interest and donations,1529
+Depreciation,1529
+Indirect taxes,1529
+Salaries and wages paid,1529
+Redundancy and severance,1529
+Return on total assets,1529
+Non-operating expenses,1529
+Closing stocks,1529
+Opening stocks,1529
+Surplus before income tax,1529
+Total assets,1529
+Shareholders funds or owners equity,1529
+Total equity and liabilities,1529
+Return on equity,1529
+Liabilities structure,1529
+Quick ratio,1474
+Other assets,1474
+Other liabilities,1474
+Current liabilities,1474
+Fixed tangible assets,1474
+Current assets,1474
+Current ratio,1474
+Total income per employee count,1397
+Surplus per employee count,1397
+Disposals of fixed assets,1320
+Additions to fixed assets,1320
+"Government funding, grants and subsidies",1221
+Purchases and other operating expenses,957
+Sales of goods and services,649
+Margin on sales of goods for resale,572
+Purchases of goods bought for resale,572
+Sales of goods not further processed,572
+Sales of other goods and services,572
+Other Purchases and operating expenses,520
+"Sales, government funding, grants and subsidies",308
+Salaries and wages to self employed commission agents,187
+Other purchases and operating expenses,52
+
+
+--- OUTLIERS ---
+No data found
+
+
+--- LABEL_INCONSISTENCIES ---
+Normalized Label,Count
+total income,1529
+"interest, dividends and donations",1529
+non-operating income,1529
+total expenditure,1529
+indirect taxes,1529
+interest and donations,1529
+depreciation,1529
+salaries and wages paid,1529
+shareholders funds or owners equity,1529
+redundancy and severance,1529
+opening stocks,1529
+non-operating expenses,1529
+closing stocks,1529
+surplus before income tax,1529
+total equity and liabilities,1529
+total assets,1529
+liabilities structure,1529
+return on equity,1529
+return on total assets,1529
+current ratio,1474
+current liabilities,1474
+fixed tangible assets,1474
+other assets,1474
+current assets,1474
+other liabilities,1474
+quick ratio,1474
+total income per employee count,1397
+surplus per employee count,1397
+disposals of fixed assets,1320
+additions to fixed assets,1320
+"government funding, grants and subsidies",1221
+purchases and other operating expenses,957
+sales of goods and services,649
+other purchases and operating expenses,572
+sales of other goods and services,572
+sales of goods not further processed,572
+margin on sales of goods for resale,572
+purchases of goods bought for resale,572
+"sales, government funding, grants and subsidies",308
+salaries and wages to self employed commission agents,187
+
+
